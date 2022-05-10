@@ -1,0 +1,3 @@
+motor off = pinion gear unatttached
+motor on = pinion gear attached
+see video for more information
